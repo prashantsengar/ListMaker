@@ -5,4 +5,4 @@ Create and save lists
 `git clone https://github.com/prashantsengar/ListMaker`
 
 ## Run
-`python listMaker.py` or `python3 listMaker.py
+`python listMaker.py` or `python3 listMaker.py`
